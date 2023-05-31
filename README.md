@@ -3,12 +3,7 @@
 <h4 align="center">Open to collaborating on interesting and innovative projects.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankadevadutt&label=Profile%20views&color=0e75b6&style=flat" alt="sankadevadutt" /> </p>
-<a href="https://www.linkedin.com/in/devaduttsanka">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="sanka.devadutt1@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kaggle">
-    </a>
+
 - 📫 How to reach me **sanka.devadutt1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
