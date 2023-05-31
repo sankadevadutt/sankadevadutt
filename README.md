@@ -6,6 +6,24 @@
 
 - 📫 How to reach me **sanka.devadutt1@gmail.com**
 
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Devadutt Sanka.<br>
+        Unlocking the Synergy: AI/ML and Software Integration Expert.<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/devaduttsanka">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="mailto:sanka.devadutt1@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://leetcode.com/SankaDevadutt">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+    </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devaduttsanka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devaduttsanka/" height="30" width="40" /></a>
