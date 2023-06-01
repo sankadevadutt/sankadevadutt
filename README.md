@@ -104,7 +104,8 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-<📊 GitHub Stats>
+<details>
+<summary>📊 GitHub Stats</summary>
 <p align="center">
   <a href="https://github.com/sankadevadutt">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankadevadutt&theme=radical" />
@@ -119,7 +120,7 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sankadevadutt&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=radical" />
   </a>
 </p>
-</📊 GitHub Stats>
+</details>
 
 
 ### ✍️ Random Dev Quote
