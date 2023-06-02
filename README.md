@@ -130,5 +130,8 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   </a>
 </p>
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=sankadevadutt&icon=2&color=0)](https://visitcount.itsvg.in)
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=sankadevadutt&icon=2&color=0)](https://visitcount.itsvg.in)
+
