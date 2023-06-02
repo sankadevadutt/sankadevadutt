@@ -125,6 +125,17 @@
 
 
 ### ✍️ Random Dev Quote
+<p align="center">
+  <a href="https://github.com/sankadevadutt">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  </a>
+  <a href="https://github.com/sankadevadutt">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankadevadutt&hide_border=true&card_width=338&theme=radical" />
+  </a>
+  <a href="https://github.com/sankadevadutt">
+    <img src="https://visitcount.itsvg.in/api?id=sankadevadutt&icon=2&color=0)](https://visitcount.itsvg.in" />
+  </a>
+</p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=sankadevadutt&icon=2&color=0)](https://visitcount.itsvg.in)
