@@ -1,5 +1,5 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
-
+<h1 align="center">Hi, guys! <img src="https://github.com/sankadevadutt/sankadevadutt/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<!-- About me-->
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
@@ -18,6 +18,9 @@
     </a>
 </p>
 
+
+<!-- Skills that I posses and used in few projects-->
+<!-- Click the skill to find the projects where I used them-->
 ### Design and Prototyping
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
@@ -104,6 +107,8 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+
+<!-- Github Statastics-->
 # Stats
 <details>
 <summary>📊 GitHub Stats</summary>
@@ -123,16 +128,14 @@
 </p>
 </details>
 
-
+<!-- Random Developer Quotes-->
 ### ✍️ Random Dev Quote
 <p align="center">
   <a href="https://github.com/sankadevadutt">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   </a>
 </p>
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=sankadevadutt&icon=2&color=0)](https://visitcount.itsvg.in)
-</div>
+<!-- Profile Views-->
 <p align="center">
   <a href="https://visitcount.itsvg.in/api?id=sankadevadutt&icon=2&color=0">
     <img src="https://visitcount.itsvg.in/api?id=sankadevadutt&icon=2&color=0" alt="Profile View">
