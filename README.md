@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
+ <style>
     @keyframes wave-animation {
       0% { transform: rotate(0deg); }
       20% { transform: rotate(10deg); }
@@ -16,11 +13,7 @@
       animation: wave-animation 2s infinite;
     }
   </style>
-</head>
-<body>
-  <h1>Hello! <span class="hand-wave">👋</span></h1>
-</body>
-</html>
+ <h1>Hello! <span class="hand-wave">👋</span></h1>
 
 
 <h1 align="center">Hi, guys!👋</h1>
