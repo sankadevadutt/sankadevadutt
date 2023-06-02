@@ -6,7 +6,7 @@
         I'm Devadutt Sanka.<br>
         Unlocking the Synergy: AI/ML and Software Integration Expert.<br>
         Open to collaborating on interesting and innovative projects.<br>
-        ✨ Feel free to take a look at my repositories and give them a ⭐️ if you find them useful.<br>
+        Feel free to take a look at my repositories and give them a ⭐️ if you find them useful.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/devaduttsanka">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
