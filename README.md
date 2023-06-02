@@ -129,9 +129,6 @@
   <a href="https://github.com/sankadevadutt">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   </a>
-  <a href="https://github.com/sankadevadutt">
-    <img src="(https://visitcount.itsvg.in/api?id=sankadevadutt&icon=2&color=0)" />
-  </a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=sankadevadutt&icon=2&color=0)](https://visitcount.itsvg.in)
