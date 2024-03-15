@@ -143,9 +143,3 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   </a>
 </p>
-<!-- <!-- Profile Views-->
-<!-- <p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=sankadevadutt&icon=2&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=sankadevadutt&icon=2&color=0" alt="Profile View">
-  </a> -->
-<!-- </p> --!> -->
