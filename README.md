@@ -132,7 +132,7 @@
 </p>
 <h3>Leetcode Stats</h3>
 <p align="center">
-    <img src = "https://leetcard.jacoblin.cool/SankaDevadutt?theme=nordext=activity"/>
+    <img src = "https://leetcard.jacoblin.cool/SankaDevadutt?ext=activity"/>
 </p>
 
 # Blogs
