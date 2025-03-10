@@ -132,9 +132,7 @@
 </p>
 <h3>Leetcode Stats</h3>
 <p align="center">
-<a href = "https://leetcode-stats-api.herokuapp.com/SankaDevadutt">
-    <p>Leetcode stats</p>
-</a>
+![Leetcode Stats](https://leetcard.jacoblin.cool/SankaDevadutt?theme=dark)
 
 # Blogs
 <a href="https://medium.com/@devadutt.sanka/from-electrical-woes-to-machine-learning-heroes-unraveling-the-marvels-of-transformers-in-machine-4a9ca48765b4?source=friends_link&sk=a2a7480df156cd46e350a932e0b4b0cf">From Electrical Woes to Machine Learning Heroes: Unraveling the Marvels of Transformers in Machine Learning</a>
