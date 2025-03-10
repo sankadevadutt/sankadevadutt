@@ -115,7 +115,7 @@
 
 <!-- Github Statastics-->
 # Stats
-<summary>📊 GitHub Stats</summary>
+<h3>📊 GitHub Stats</h3>
 <p align="center">
   <a href="https://github.com/sankadevadutt">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankadevadutt&theme=radical" />
@@ -130,6 +130,7 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sankadevadutt&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=radical" />
   </a>
 </p>
+<summary></summary>
 
 # Blogs
 <a href="https://medium.com/@devadutt.sanka/from-electrical-woes-to-machine-learning-heroes-unraveling-the-marvels-of-transformers-in-machine-4a9ca48765b4?source=friends_link&sk=a2a7480df156cd46e350a932e0b4b0cf">From Electrical Woes to Machine Learning Heroes: Unraveling the Marvels of Transformers in Machine Learning</a>
